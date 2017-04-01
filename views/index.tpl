@@ -75,9 +75,9 @@
 
 <body>
   <header>
-    <h1 class="logo">Welcome to Beego</h1>
+    <h1 class="logo">Golang欢迎你~</h1>
     <div class="description">
-      Beego is a simple & powerful Go web framework which is inspired by tornado and sinatra.
+      Golang WEB应用平台
     </div>
   </header>
   <footer>
